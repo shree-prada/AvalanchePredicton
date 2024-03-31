@@ -4,10 +4,10 @@ Avalanche Predicton is a machine learning model designed to predict the likeliho
 
 ## Features
 
--Utilizes machine learning algorithms to analyze and predict avalanche risk
--Incorporates various factors, such as weather conditions, snowpack data, and terrain features
--User-friendly interface to input data and generate predictions
--Continuously updated and refined to improve accuracy and reliability
+1. Utilizes machine learning algorithms to analyze and predict avalanche risk
+2. Incorporates various factors, such as weather conditions, snowpack data, and terrain features
+3. User-friendly interface to input data and generate predictions
+4. Continuously updated and refined to improve accuracy and reliability
 
 ## Getting Started
 
